@@ -1,5 +1,13 @@
 # Hi there, I'm Alief 👋
-
+Interested in developing modern, interactive, and user-friendly web-based applications. 
+Experienced in building CodeIgniter and Laravel-based systems, 
+and skilled in designing functional and aesthetic interfaces.
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_KAMU)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/USERNAME_KAMU)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@USERNAME_TIKTOK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU)
 ## 🔧 Skills & Tools
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
