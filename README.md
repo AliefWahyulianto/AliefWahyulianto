@@ -30,7 +30,7 @@ https://https://liffsann.lovestoblog.com/
 
 ### 🗄 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
+![Laragon](https://img.shields.io/badge/Laragon-00ADEF?style=flat&logo=laragon&logoColor=white)
 ---
 
 ### 🎨 Design Tools
