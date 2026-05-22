@@ -54,3 +54,7 @@ https://https://liffsann.lovestoblog.com/
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/tokisaki.kurumi.39794)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@liffsann)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aliefwahyulianto11@gmail.com)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/USERNAME_KAMU/USERNAME_KAMU/blob/output/github-contribution-grid-snake.svg)
