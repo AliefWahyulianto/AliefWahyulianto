@@ -23,12 +23,14 @@ https://https://liffsann.lovestoblog.com/
 ![CodeIgniter 3](https://img.shields.io/badge/CodeIgniter%203-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ### 🗄 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![BadgerDB](https://img.shields.io/badge/BadgerDB-00ADD8?style=flat&logo=go&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-00ADEF?style=flat&logo=laragon&logoColor=white)
 
 ### 🛠 Tools
